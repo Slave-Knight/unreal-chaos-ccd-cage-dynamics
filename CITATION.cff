@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "Please cite the dataset by Bill Wu (吴承昊), credit GPT-6 as the AI research collaborator, and identify the case and time interval used."
+type: dataset
+title: "CageCLI: Contact motion in interlocking rigid bodies"
+version: "0.1.0"
+repository-code: "https://github.com/Slave-Knight/unreal-chaos-ccd-cage-dynamics"
+url: "https://github.com/Slave-Knight/unreal-chaos-ccd-cage-dynamics/releases/tag/v0.1.0"
+authors:
+  - family-names: "Wu"
+    given-names: "Bill"
+    alias: "吴承昊"
+    orcid: "https://orcid.org/0009-0001-5421-5678"
+abstract: >-
+  Three studies compare sustained contact, an untriggered controller and slow
+  rotation in interlocking rigid-body cages. Each archive includes 120 Hz pose
+  recordings and an independent Python reproducer. Bill Wu (吴承昊) defined
+  the research questions and criteria for interpreting the results and is the
+  rights holder. GPT-6 is credited as the AI research collaborator for numerical
+  analysis, code, validation and visualization. The dataset is licensed under
+  CC BY 4.0 and the original Python scripts are licensed under MIT.
+license: CC-BY-4.0
